@@ -49,19 +49,5 @@ This work extends PI-NSGA-II to:
 
 ---
 
-## 🧠 Methodology Overview
-
-**Workflow**
-1. Load land-use raster map
-2. Identify static vs. non-static cells
-3. Create patch-ID map (patch-based genome)
-4. Initialize population using feasible configurations
-5. Run NSGA-II or PI-NSGA-II
-6. Periodically elicit preferences (PI-NSGA-II)
-7. Learn value function and steer evolution
-8. Enforce feasibility via repair mutation
-9. Analyze convergence, runtime, and solution relevance
-
----
 
 
