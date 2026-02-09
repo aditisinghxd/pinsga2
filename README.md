@@ -64,6 +64,4 @@ This work extends PI-NSGA-II to:
 
 ---
 
-## 📁 Project Structure
-
 
